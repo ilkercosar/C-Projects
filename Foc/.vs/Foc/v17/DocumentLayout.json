@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\class\\Desktop\\kodlama\\C\\Foc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FA047511-0AFF-4503-8C91-76F3ACB70EA4}|Foc\\Foc.vcxproj|C:\\Users\\class\\Desktop\\kodlama\\C\\Foc\\Foc\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FA047511-0AFF-4503-8C91-76F3ACB70EA4}|Foc\\Foc.vcxproj|solutionrelative:Foc\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\class\\Desktop\\kodlama\\C\\Foc\\Foc\\main.c",
+              "RelativeDocumentMoniker": "Foc\\main.c",
+              "ToolTip": "C:\\Users\\class\\Desktop\\kodlama\\C\\Foc\\Foc\\main.c*",
+              "RelativeToolTip": "Foc\\main.c*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-06-01T16:16:40.042Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
