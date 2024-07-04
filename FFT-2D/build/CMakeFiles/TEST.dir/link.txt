@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/TEST.dir/main.c.o CMakeFiles/TEST.dir/fft-2d.c.o  -o TEST -lm 

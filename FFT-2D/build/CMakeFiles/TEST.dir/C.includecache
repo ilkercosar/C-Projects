@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hedef-ubuntu/cpp/FFT-2D/fft-2d.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+fft-2d.h
+/home/hedef-ubuntu/cpp/FFT-2D/fft-2d.h
+
+/home/hedef-ubuntu/cpp/FFT-2D/fft-2d.h
+stdint.h
+-
+
+/home/hedef-ubuntu/cpp/FFT-2D/main.c
+stdio.h
+-
+stdlib.h
+-
+stdint.h
+-
+fft-2d.h
+/home/hedef-ubuntu/cpp/FFT-2D/fft-2d.h
+
