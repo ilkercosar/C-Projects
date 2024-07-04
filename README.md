@@ -1,4 +1,2 @@
-# Embedded-C
-- register based atmel mcu examples will come
-- stm8s examples will come
-- esp32 examples will come
+#Future Embedded-C
+- Luckfox pico mini RV1103 projects
