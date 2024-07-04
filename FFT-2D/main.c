@@ -1,4 +1,4 @@
-/* solid respect to sanfoundry.com*/
+/* solid respect to sanfoundry.com */
 #include <stdio.h>
 #include <stdlib.h>
 #include <stdint.h>
